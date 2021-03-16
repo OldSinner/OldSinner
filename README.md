@@ -5,7 +5,6 @@
  - Blazor 💻 
  - MAUI 📱 
  - UWP 📟 
- - Machine Learning using C# 🤖 
  - JavaScript 📜
 ## 📫 How to reach me:
  - Discord: OldSinner#8240
