@@ -4,8 +4,8 @@
  - ASP.NET 🌎 
  - Blazor 💻 
  - MAUI 📱 
- - UWP 📟 
- - JavaScript 📜
+ - Machine Learning 🐍
+ - MonoGame 🎮
 ## 📫 How to reach me:
  - Discord: OldSinner#8240
  - Mail: antylifepatia@gmail.com
