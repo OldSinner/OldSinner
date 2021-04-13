@@ -3,7 +3,8 @@
 ## 🔭 I’m currently into, or plan to be into: 
  - ASP.NET 🌎 
  - Blazor 💻 
- - MAUI 📱 
+ - UWP (sometimes)
+ - MAUI 📱 (waiting!)
  - Machine Learning 🐍
  - MonoGame 🎮
 ## 📫 How to reach me:
