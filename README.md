@@ -5,7 +5,7 @@
  - Blazor 💻 
  - MAUI 📱 (waiting!)
  - Machine Learning 🐍
- - MonoGame 🎮
+ - React
 ## 📫 How to reach me:
  - Discord: OldSinner#8240
  - Mail: antylifepatia@gmail.com
