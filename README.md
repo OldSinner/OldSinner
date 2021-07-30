@@ -4,7 +4,7 @@
  - ASP.NET 🌎 
  - Blazor 💻 
  - MAUI 📱 (waiting!)
- - Machine Learning 🐍
+ - Electron!
  - React
 ## 📫 How to reach me:
  - Discord: OldSinner#8240
