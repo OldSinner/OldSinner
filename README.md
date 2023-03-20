@@ -1,5 +1,5 @@
 ## Hi there 👋 😳
-### As a passionate .NET Developer with a interest in games, Artificial Intelligence (AI), and programming. My passion for programming extends beyond my professional career, as I often dedicate my free time to exploring new technologies and working on personal projects. I am staying up-to-date with the latest trends in the industry, attending conferences and networking events to expand my knowledge and skills.
+### I'm OldSiner, passionate programmer, with a interest in games, Artificial Intelligence (AI) and automation. My passion for programming extends beyond my professional career, as I often dedicate my free time to exploring new technologies and working on personal projects. I am staying up-to-date with the latest trends in the industry, attending conferences and networking events to expand my knowledge and skills.
 ## 🔭 I’m currently into, or plan to be into: 
  - .NET 
  - Python
