@@ -1,11 +1,10 @@
 ## Hi there 👋 😳
-### I'm OldSinner. I'm a Computer Science student at Kazimierz Wielki University, with a specialization in distributed technologies. I try to develop in the field of .NET technology 💘 , but I'm interested in everything related to IT.
+### As a passionate .NET Developer with a interest in games, Artificial Intelligence (AI), and programming. My passion for programming extends beyond my professional career, as I often dedicate my free time to exploring new technologies and working on personal projects. I am staying up-to-date with the latest trends in the industry, attending conferences and networking events to expand my knowledge and skills.
 ## 🔭 I’m currently into, or plan to be into: 
- - ASP.NET 🌎 
- - Nest.JS
+ - .NET 
+ - Python
  - React
- - Artificial neural systems
- - Discord.NET
+ - Artificial Intelligence (AI)
 ## 📫 How to reach me:
  - Discord: OldSinner#8240
  - Mail: antylifepatia@gmail.com
