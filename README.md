@@ -3,7 +3,7 @@
 ## 🔭 I’m currently into, or plan to be into: 
  - .NET 
  - JS/TS (React, Angular)
- - Rust
+ - Rust, C, ASM
 ## 📫 How to reach me:
  - Discord: OldSinner#8240
  - Mail: antylifepatia@gmail.com
