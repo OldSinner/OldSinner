@@ -11,4 +11,3 @@
  - I hate 🍄
  - I never know what I'm doing. But it works. 
 ##
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=OldSinner&show_icons=true&theme=radical"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OldSinner&layout=compact&theme=radical">
